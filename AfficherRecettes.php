@@ -83,25 +83,10 @@ $validRecipes = getRecipes($recipes);
 <html>
 <head>
     <title>Affichage des recettes</title>
-<style>
-    body {
-        font-family: Verdana, sans-serif;
-    }
-
-    ul {
-        list-style-type: none;
-        padding: 0;
-    }
-
-    li {
-        margin: 10px 0;
-        padding: 10px;
-    }
-
-    li.disabled {
-        opacity: 0.5;
-    }
-</style>    
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" 
+        rel="stylesheet"
+    >   
 </head>
 <body>
     <h1>Liste des recettes de cuisine</h1>
