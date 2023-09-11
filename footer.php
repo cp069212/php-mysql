@@ -8,7 +8,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand" href="index.php">Copyright Clément Papillon, tous droits réservés</a>
+            <a class="navbar-brand" href="index.php">2021 Copyright: Clément Papillon</a>
         </div>
     </nav>
 </body>
