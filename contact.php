@@ -32,7 +32,7 @@
                 <input type="file" class="form-control" id="screenshot" name="screenshot" />
             </div>
             <!-- Fin ajout du champ -->
-            <button type="submit" class="btn btn-primary">Envoye</button>
+            <button type="submit" class="btn btn-primary">Envoyer</button>
         </form>
         <br />
     </div>
