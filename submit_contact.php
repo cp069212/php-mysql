@@ -32,7 +32,7 @@
                 || (!isset($_POST['message']) || empty($_POST['message']))
                 )
             {
-                echo('<h1>Attention ! Votre email ou votre message est invalide !</h1>');
+                echo('<h1>Il faut un email et un message valides pour soumettre le formulaire.</h1>');
                 return;
             }
         ?>
